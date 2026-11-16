@@ -45,20 +45,13 @@ Pandas
 Matplotlib
 Scikit-learn
 
-📁 Project Layout
-Machine-Learning-Labs-CS-324/
-│
-├── Lab_01_Data_Preprocessing/      # Data cleaning, handling missing values, feature scaling
-├── Lab_02_Data_Analysis/           # Exploratory data analysis and visualization
-├── Lab_03_Linear_Regression/       # Linear regression model implementation
-└── README.md
 
 ▶️ Running the Notebooks
 To run the lab files locally:
 Clone the repository:
-git clone https://github.com/your-username/Machine-Learning-CS324-Labs.git
+git clone https://github.com/01asrasiddiqui/Machine-Learning.git
 Move into the project directory:
-cd Machine-Learning-CS324-Labs
+cd Machine-Learning
 Start Jupyter Notebook:
 jupyter notebook
 Open any lab folder and execute the notebook cells.
